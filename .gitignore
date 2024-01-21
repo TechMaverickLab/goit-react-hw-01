@@ -25,3 +25,4 @@ dist-ssr
 
 generate_tree.sh
 project_structure.txt
+node_modules
