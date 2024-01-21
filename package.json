@@ -29,6 +29,6 @@
   },
   "homepage": "https://TechMaverickLab.github.io/goit-react-hw-01/",
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
